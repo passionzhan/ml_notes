@@ -2,7 +2,7 @@
 
 本仓库将持续总结机器学习相关的基本概念和研究内容。
 
-### [一、数学基础](https://github.com/passionzhan/ml_notes/blob/master/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.md). 
+### [一、数学基础](/blob/master/1、数学基础.md)
 
 ### [二、基本概念]()
 
